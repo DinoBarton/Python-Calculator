@@ -18,4 +18,27 @@ Welcome! This Python script allows you to perform various mathematical operation
 
 3. Open your terminal or command prompt and navigate to the directory where the `calculator.py` file is located.
 
-4. Run the script using the following command:
+4. Run the script
+
+5. 5. Follow the on-screen instructions to perform various mathematical operations.
+
+6. To exit the program, select the "Exit" option.
+
+## Usage
+
+1. Select an operation by entering the corresponding number.
+2. Enter the number of values you want to perform the operation on.
+3. Enter the values one by one.
+4. The program will display the result of the selected operation.
+
+## Note
+
+- For division, the program checks for division by zero and handles it by displaying an error message.
+
+## Contributing
+
+Contributions are welcome! If you have any improvements or additional features to suggest, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
